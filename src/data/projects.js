@@ -38,5 +38,33 @@ const projects = [
     repositoryLink: "https://github.com/RamiElsayed/film-go.git",
     deployedLink: "https://ramielsayed.github.io/film-go/",
   },
+  {
+    image:
+      "https://github.com/RamiElsayed/password-generator/raw/main/assets/images/Password%20Generator.jpg",
+    alt: "Coding Forum",
+    title: "Coding Forum",
+    description:
+      "A front end project allowing users to generate random passwords to secure their accounts",
+    repositoryLink: "https://github.com/RamiElsayed/password-generator.git",
+    deployedLink: "https://ramielsayed.github.io/password-generator/",
+  },
+  {
+    image:
+      "https://github.com/RamiElsayed/my-portfolio/raw/main/images/portfolio.2.jpg",
+    alt: "Coding Forum",
+    title: "Coding Forum",
+    description: "A simple vanilla html page with links to some of my projects",
+    repositoryLink: "https://github.com/RamiElsayed/my-portfolio.git",
+    deployedLink: "https://ramielsayed.github.io/my-portfolio/",
+  },
+  {
+    image:
+      "https://github.com/RamiElsayed/team-profile-generator/raw/main/images/team-profile-generator.jpg",
+    alt: "Coding Forum",
+    title: "Coding Forum",
+    description:
+      "This is a project run in the terminal allowing user to create cards for their team members",
+    repositoryLink: "https://github.com/RamiElsayed/team-profile-generator.git",
+  },
 ];
 export default projects;
