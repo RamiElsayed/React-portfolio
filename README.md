@@ -18,6 +18,8 @@ A react portfolio using tailwindcss and daisyui.
 
 ## Deployed Link
 
+[deployment Link](https://ramielsayed.github.io/my-react-portfolio/)
+
 ## Github Repository Link
 
 https://github.com/RamiElsayed/my-react-portfolio.git
