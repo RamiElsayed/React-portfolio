@@ -24,7 +24,7 @@ https://github.com/RamiElsayed/my-react-portfolio.git
 
 ## Screenshot
 
-![screenshot](./src/assets/screenshot.jpg)
+![screenshot](./src/assets/screenshot.png)
 
 ## Installation
 
