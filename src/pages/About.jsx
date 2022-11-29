@@ -19,9 +19,7 @@ const About = () => {
           </div>
           <div className="space-y-2">
             <p>
-              Front end web developer looking to break into my first web
-              development role and create life changing and meaningful web
-              applications.
+              A full stack web developer always seeking to learn new ways and technologies to build new applications that will help make life easier.
             </p>
             <p>
               I've recently undertaken and obtained a certificate in full stack
