@@ -40,12 +40,12 @@ const projects = [
   },
   {
     image:
-      "https://github.com/RamiElsayed/my-portfolio/raw/main/images/portfolio.2.jpg",
-    alt: "HTML Portfolio",
-    title: "HTML Portfolio",
-    description: "A simple vanilla html page with links to some of my projects",
-    repositoryLink: "https://github.com/RamiElsayed/my-portfolio.git",
-    deployedLink: "https://ramielsayed.github.io/my-portfolio/",
+      "https://github.com/RamiElsayed/React-portfolio/blob/main/src/assets/screenshot.png?raw=true",
+    alt: "React Portfolio",
+    title: "React Portfolio",
+    description: "A react page with links to some of my projects",
+    repositoryLink: "https://github.com/RamiElsayed/React-portfolio.git",
+    deployedLink: "https://ramielsayed.github.io/my-react-portfolio/",
   },
   {
     image:

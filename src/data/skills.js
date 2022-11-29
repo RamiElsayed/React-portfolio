@@ -1,3 +1,5 @@
+import CSharp from '../assets/csharp.png';
+import ASPDOTNET from '../assets/ASP.NET.png';
 import HTML from '../assets/html.png';
 import CSS from '../assets/css.png';
 import JS from '../assets/javascript.png';
@@ -20,6 +22,8 @@ import Typescript from '../assets/typescript.png';
 import Sequelize from '../assets/sequelize.png';
 
 const skills = [
+  { image: ASPDOTNET, name: 'ASP.NET', alt: 'ASP DOTNET' },
+  { image: CSharp, name: 'C#', alt: 'C #' },
   { image: HTML, name: 'HTML', alt: 'H T M L' },
   { image: CSS, name: 'CSS', alt: 'C S S' },
   { image: JS, name: 'JS', alt: 'Javascript' },
