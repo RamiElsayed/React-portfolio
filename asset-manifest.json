@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.ca46f113.css",
-    "main.js": "/my-react-portfolio/static/js/main.6f9672a5.js",
-    "static/media/logo.png": "/my-react-portfolio/static/media/logo.8a2098a4e19383778644.png",
-    "static/media/react.png": "/my-react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/my-react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/my-react-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/postman.png": "/my-react-portfolio/static/media/postman.bf6953c006ad1889f061.png",
-    "static/media/sequelize.png": "/my-react-portfolio/static/media/sequelize.74e48eda4e50158bca97.png",
-    "static/media/html.png": "/my-react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/mongoose.png": "/my-react-portfolio/static/media/mongoose.df9141d3ce372e166420.png",
-    "static/media/tailwind.png": "/my-react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/my-react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/jquery.png": "/my-react-portfolio/static/media/jquery.e6ea6df49a84723813ea.png",
-    "static/media/mysql.png": "/my-react-portfolio/static/media/mysql.4676ad983d6bd3e9fac9.png",
-    "static/media/heroku.png": "/my-react-portfolio/static/media/heroku.72c5415e90e6eff4ab11.png",
-    "static/media/javascript.png": "/my-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/my-react-portfolio/index.html",
-    "main.ca46f113.css.map": "/my-react-portfolio/static/css/main.ca46f113.css.map",
-    "main.6f9672a5.js.map": "/my-react-portfolio/static/js/main.6f9672a5.js.map"
+    "main.css": "/React-portfolio/static/css/main.ca46f113.css",
+    "main.js": "/React-portfolio/static/js/main.48a32516.js",
+    "static/media/logo.png": "/React-portfolio/static/media/logo.8a2098a4e19383778644.png",
+    "static/media/react.png": "/React-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/React-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/React-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/postman.png": "/React-portfolio/static/media/postman.bf6953c006ad1889f061.png",
+    "static/media/sequelize.png": "/React-portfolio/static/media/sequelize.74e48eda4e50158bca97.png",
+    "static/media/html.png": "/React-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/mongoose.png": "/React-portfolio/static/media/mongoose.df9141d3ce372e166420.png",
+    "static/media/tailwind.png": "/React-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/React-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/jquery.png": "/React-portfolio/static/media/jquery.e6ea6df49a84723813ea.png",
+    "static/media/csharp.png": "/React-portfolio/static/media/csharp.fc430729bfa8902c06fd.png",
+    "static/media/mysql.png": "/React-portfolio/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "static/media/heroku.png": "/React-portfolio/static/media/heroku.72c5415e90e6eff4ab11.png",
+    "static/media/javascript.png": "/React-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/React-portfolio/index.html",
+    "main.ca46f113.css.map": "/React-portfolio/static/css/main.ca46f113.css.map",
+    "main.48a32516.js.map": "/React-portfolio/static/js/main.48a32516.js.map"
   },
   "entrypoints": [
     "static/css/main.ca46f113.css",
-    "static/js/main.6f9672a5.js"
+    "static/js/main.48a32516.js"
   ]
 }
