@@ -1,6 +1,15 @@
 const projects = [
   {
     image:
+        "https://user-images.githubusercontent.com/81489678/204623840-f9165fb8-82f7-4698-817b-2991dc58bfac.png",
+    alt: "Contoso University",
+    title: "Contoso University",
+    description:
+        "A sample application demonstrates the knowledge on using Entity Framework Core in ASP.NET Core MVC.",
+    repositoryLink: "https://github.com/RamiElsayed/ContosoUniversity.git",
+  },
+  {
+    image:
       "https://github.com/RamiElsayed/coding-forum/blob/main/public/images/coding-forum.jpg?raw=true",
     alt: "Coding Forum",
     title: "Coding Forum",
