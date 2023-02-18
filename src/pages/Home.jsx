@@ -15,9 +15,10 @@ function Home() {
             I'm a full stack web developer
           </h2>
           <p className="text-[#8892b0] py-4 max-w-[500px]">
-            I strive to contribute to producing high quality, maintainable applications and systems and always try to add real value where possible.
-            I keep up to date with the latest technologies and always look for opportunities in which they can improve the productivity of myself and the team.
-            Additionally, I have a keen interest in the design and architecture of applications and systems as well as learning about clients’ requirements, motivations and businesses.
+            I am a junior full stack developer. Spending every day enhancing my software engineering skills.
+            I get any job done tirelessly and learn whatever is necessary to finish it.
+            I love reading technical documentation and reading code.
+            You can ask me anything about my skills or a certain skill and I will tell you what I know.
           </p>
           <div>
             <Link to="work" smooth={true} duration={500} offset={-80}>
